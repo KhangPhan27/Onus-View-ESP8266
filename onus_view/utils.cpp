@@ -1,5 +1,5 @@
 #include "utils.h"
-// define oled àn bitmap info
+// define oled display 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 #define OLED_RESET     -1
